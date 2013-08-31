@@ -1,7 +1,7 @@
 jQueryCollisionDetection
 ========================
 
-Collision Detection plugin for jQuery
+__Collision Detection plugin for jQuery__
 
 A simple, light-weight jQuery plugin to enable collision detection between HTML elements.
 
@@ -18,4 +18,4 @@ How to Use
 -------------------------
 
 All you need to do is make sure you have included jQuery and jQuery UI in to your page then include collision.jquery.js afterwards.
-Now all you need to do to make a collision detection pairing is initialize the function as shown in the preview!
+Now all you need to do to make a collision detection pairing is initialize the function as shown in the example.
