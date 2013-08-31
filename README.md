@@ -19,3 +19,7 @@ How to Use
 
 All you need to do is make sure you have included jQuery and jQuery UI in to your page then include collision.jquery.js afterwards.
 Now all you need to do to make a collision detection pairing is initialize the function as shown in the example.
+
+Website
+-------------------------
+Working example and download here: http://markjamesnet.co.uk/sandbox/collision/index.php
