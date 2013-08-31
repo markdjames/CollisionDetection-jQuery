@@ -12,9 +12,10 @@ Features include:
  - Minified version is less than 1kb
  - Requires jQuery UI
 
-This is essentially an addition to the jQuery UI Dragging functionality. See the preview above to see how simple it is!
+This is essentially an addition to the jQuery UI Dragging functionality. See the example to see how simple it is!
 
 How to Use
+-------------------------
 
 All you need to do is make sure you have included jQuery and jQuery UI in to your page then include collision.jquery.js afterwards.
 Now all you need to do to make a collision detection pairing is initialize the function as shown in the preview!
